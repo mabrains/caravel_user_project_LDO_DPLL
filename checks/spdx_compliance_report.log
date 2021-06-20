@@ -1,0 +1,33 @@
+FULL RUN LOG:
+SPDX NON-COMPLIANT FILES
+/home/mariam/mabrains/caravel_user_project_LDO_DPLL/README.md
+/home/mariam/mabrains/caravel_user_project_LDO_DPLL/.github/workflows/auto_update_submodule.yml
+/home/mariam/mabrains/caravel_user_project_LDO_DPLL/.github/workflows/user_project_ci.yml
+/home/mariam/mabrains/caravel_user_project_LDO_DPLL/.github/workflows/caravan_build.yml
+/home/mariam/mabrains/caravel_user_project_LDO_DPLL/.github/scripts/dv/run-dv.sh
+/home/mariam/mabrains/caravel_user_project_LDO_DPLL/caravel/openlane/user_analog_project_wrapper_empty/or_ioplace.tcl
+/home/mariam/mabrains/caravel_user_project_LDO_DPLL/caravel/verilog/rtl/mgmt_soc.v
+/home/mariam/mabrains/caravel_user_project_LDO_DPLL/caravel/verilog/rtl/simpleuart.v
+/home/mariam/mabrains/caravel_user_project_LDO_DPLL/caravel/verilog/rtl/picorv32.v
+/home/mariam/mabrains/caravel_user_project_LDO_DPLL/caravel/verilog/rtl/spimemio.v
+/home/mariam/mabrains/caravel_user_project_LDO_DPLL/caravel/verilog/dv/caravel/spiflash.v
+/home/mariam/mabrains/caravel_user_project_LDO_DPLL/caravel/verilog/dv/caravel/tbuart.v
+/home/mariam/mabrains/caravel_user_project_LDO_DPLL/caravel/verilog/dv/caravel/mgmt_soc/storage/storage_tb.v
+/home/mariam/mabrains/caravel_user_project_LDO_DPLL/caravel/verilog/dv/caravel/mgmt_soc/perf/perf_tb.v
+/home/mariam/mabrains/caravel_user_project_LDO_DPLL/caravel/verilog/dv/caravel/mgmt_soc/timer/timer_tb.v
+/home/mariam/mabrains/caravel_user_project_LDO_DPLL/caravel/verilog/dv/caravel/mgmt_soc/gpio/gpio_tb.v
+/home/mariam/mabrains/caravel_user_project_LDO_DPLL/caravel/verilog/dv/caravel/mgmt_soc/mem/mem_tb.v
+/home/mariam/mabrains/caravel_user_project_LDO_DPLL/caravel/verilog/dv/caravel/mgmt_soc/uart/uart_tb.v
+/home/mariam/mabrains/caravel_user_project_LDO_DPLL/caravel/verilog/dv/caravel/mgmt_soc/timer2/timer2_tb.v
+/home/mariam/mabrains/caravel_user_project_LDO_DPLL/caravel/verilog/dv/caravel/mgmt_soc/qspi/qspi_tb.v
+/home/mariam/mabrains/caravel_user_project_LDO_DPLL/caravel/verilog/dv/caravel/mgmt_soc/caravan/caravan_tb.v
+/home/mariam/mabrains/caravel_user_project_LDO_DPLL/xschem/xschemrc
+/home/mariam/mabrains/caravel_user_project_LDO_DPLL/xschem/example_por.sym
+/home/mariam/mabrains/caravel_user_project_LDO_DPLL/xschem/.spiceinit
+/home/mariam/mabrains/caravel_user_project_LDO_DPLL/xschem/example_por_tb.spice.orig
+/home/mariam/mabrains/caravel_user_project_LDO_DPLL/xschem/example_por.sch
+/home/mariam/mabrains/caravel_user_project_LDO_DPLL/xschem/test.data
+/home/mariam/mabrains/caravel_user_project_LDO_DPLL/xschem/example_por_tb.sch
+/home/mariam/mabrains/caravel_user_project_LDO_DPLL/xschem/user_analog_project_wrapper.sym
+/home/mariam/mabrains/caravel_user_project_LDO_DPLL/xschem/user_analog_project_wrapper.sch
+/home/mariam/mabrains/caravel_user_project_LDO_DPLL/xschem/analog_wrapper_tb.sch
