@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Total XOR differences = 4058029
+=======
+Total XOR differences = 10462888
+>>>>>>> 876f2ee150803668e170f07ce4da7b66b94e3b53
